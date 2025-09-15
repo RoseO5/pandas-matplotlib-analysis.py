@@ -1,0 +1,10 @@
+cat > sales_data.csv <<EOF
+OrderID,Customer,Region,Product,Sales
+101,John Doe,North,Laptop,1200
+102,Jane Smith,South,Tablet,800
+103,Emily Clark,East,Phone,500
+104,Michael Lee,West,Laptop,1500
+105,Sarah Kim,North,Tablet,900
+106,David Brown,South,Phone,600
+EOF
+
